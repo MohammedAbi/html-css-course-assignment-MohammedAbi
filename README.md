@@ -75,7 +75,7 @@ This project involves using JavaScript to create an interactive online store tha
 
 Links:
 
-[Website deployed via Netlify](https://js-course-assignment-mohammedabi.netlify.app/)
+[Website deployed via Netlify](https://js-1-course-assignment-mohammedabi.netlify.app/)
 
 ## Contact
 
